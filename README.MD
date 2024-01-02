@@ -1,6 +1,5 @@
 # Everton Reis do Nascimento
-
-## Sobre Mim
+## Sobre
 Sou um desenvolvedor de software full stack, apaixonado por aprender e desenvolver soluções inovadoras.
 
 ## Projetos Destacados
